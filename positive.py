@@ -1,4 +1,4 @@
-# # Program that checks if a given number is positive, negative, or zero.
+# Program that checks if a given number is positive, negative, or zero.
 x=float(input("Enter an number:"))
 if x>0:
     print(f'{x} is positive')
